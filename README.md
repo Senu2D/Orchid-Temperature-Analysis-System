@@ -1,6 +1,5 @@
 # Orchid-Temperature-Analysis-System
 A C++ application analyzing temperature variations to optimize orchid growth, featuring data input, analysis, storage, conversion, and user testing.
-...see more
 
 Overview
 This C++ application is designed for Orchi-flora Planters to monitor and analyze temperature variations essential for optimal orchid growth. Since orchids require a specific day-night temperature fluctuation (10-15°F) to bloom properly, this system helps track, calculate, and analyze temperature data over a month and Data will save to the temperature_data.txt file.
